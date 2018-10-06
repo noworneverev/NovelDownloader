@@ -1,4 +1,4 @@
-# NovelDownloader
+# 卡提諾小說小載器 (NovelDownloader)
 
 此小說下載器可下載卡提諾論壇的小說，輸入小說網址及指定頁數產出txt檔到桌面。
 
