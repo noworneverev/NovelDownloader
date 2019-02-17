@@ -12,4 +12,4 @@
 * 輸入小說名(txt檔名)、小說網址及指定頁數<br>
 	* 小說網址請先按到第2頁並刪除最後頁碼複製，例如：https://ck101.com/forum.php?mod=viewthread&tid=1919902&extra=page%3D1&page=
 * 輸出的小說txt檔會放在桌面
-<img src="https://i.imgur.com/20il9IC.gif" align=center />
+<img src="https://i.imgur.com/Xc6bIfK.gif" align=center />
