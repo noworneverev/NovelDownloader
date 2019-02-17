@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NovelDownloader.exe" size="11704">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NovelDownloader.exe" size="15288">
       <assemblyIdentity name="NovelDownloader" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OAHl5CxRJ6RezZ9MXSftVxSCdyt90Imfc0IlGjGqJnk=</dsig:DigestValue>
+        <dsig:DigestValue>C8JsttlDQmbKWq337XdT6YhEQ7QWMH/9B4Ea4ne89Pc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
